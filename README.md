@@ -18,11 +18,11 @@ WebGL (RefRes: 1280x720 HD-720p)
 
 ### Necessary setup/execution steps: 
 
-- install unity
-- install playmaker
+- install unity 2019.1.14f1
 
 ### Third party material: 
-(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
+
+<a href="https://github.com/3ahmnm-htlsbg/Unity2019114f1-2D-Template.git">Unity2019114f1-2D-Template</a>
 
 ### Project state: 
 100% ready
@@ -32,4 +32,4 @@ WebGL (RefRes: 1280x720 HD-720p)
 ### Lessons Learned: 
 how to combine GUI and CS
 
-Copyright by you :)
+Copyright by MaraJust
